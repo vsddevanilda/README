@@ -1,0 +1,1 @@
+Todo trabalho e arduo.
