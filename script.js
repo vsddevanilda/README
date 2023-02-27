@@ -1,0 +1,1 @@
+Todo conteudo aqui se refere a javascript.
