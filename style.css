@@ -7,3 +7,30 @@ input{margin-left: 100px;
       border-radius: 5px;
       border: 1px;}
 >>>>>>> e142863dafac71facb207c0f5033bac0ad40d0fb
+
+body{ 
+      margin:0;
+}
+.topo { width: 800px;
+       height: 100px;
+      margin: auto;
+background-color: aquamarine;}
+.logo {width: 50%;
+      height:100px;
+      float: left;
+      background-color: #eeeeee}
+
+.menu { width:50%;
+      height: 100px;
+       float: left; 
+      background-color: darkcyan;}
+
+.corpo {width: 800px;
+        height: 200px;
+        margin :auto;
+      background-color: darkolivegreen;}
+.rodape{width: 800px;
+        height: 100px;
+        margin: auto;
+      background-color: #ddd;
+}
